@@ -1,0 +1,95 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container-fluid bg-banner">
+    <div class="container">
+        <h1>Chúng tôi hình thành như thế nào</h1>
+        <p>
+            Ngày nay trang sức tiếp tục được xem như là một dạng thể hiện nghệ
+             thuật và như một công cụ và nguyên liệu sản xuất cũng ngày càng tăng về độ đa dạng và khả năng chi trả. Xu thế này vẫn tiếp tục gia tăng bởi vì trên thực
+             tế các kim loại quý và đá quý không còn được sử dụng như một dấu hiệu của sự giàu có và địa vị xã hội. Sự cải thiện đáng kể về kỹ thuật cũng đồng nghĩa rằng đồ trang sức được làm từ
+             các nguồn tài nguyên có sẵn và giá cả phải chăng cũng như các nguyên liêu tổng hợp cũng có thể đẹp sánh ngang với những đá quý và kim loại quý đắt tiền nhất. Những thực tế này đã đóng góp đáng kể
+             cho việc thiết kế, sáng tạo và biểu thị nghệ thuật thông qua các biểu tượng và địa vị xã hội. Khi các rào cản về văn hóa đã được gỡ bỏ và những ảnh hưởng của văn hóa được chia sẻ giữa các quốc gia nên sự
+             đa dạng trong kiểu dáng của trang sức tăng lên. Những phong cách nổi bật trong mùa xuân có thể thay đổi hoàn toàn so với phong cách nổi bật của mùa thu. 
+            Hơn nữa sự gia tăng trong tỷ lệ thay đổi trang sức ngày nay có thể được chấp nhận
+             như là một cách thể hiện của bản thân vì thế sự đa dạng trong kiểu dáng trang sức sẽ ngày càng gia tăng.
+        </p>
+    </div>
+</div>
+<div class="claerfix"></div>
+<div class="container-fluid">
+    <div class="container">
+        <div class="h-i-about">
+            <div class="h-i-about-img">
+                <img src="~/hinhanh/hand.jpeg" />
+                <div class="title">
+                    <h1>happy endding for us</h1>
+                </div>
+            </div>
+            <div class="h-i-about-item">
+                <h1>We make jewerly</h1>
+                <p>
+                    Jewellery may be made from a wide range of materials. Gemstones and similar materials such as amber and coral, precious metals, beads, and shells have been widely used,
+                     and enamel has often been important. In most cultures jewellery can be understood as a status symbol, for its material properties, its patterns, or for meaningful symbols.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid bg-countdown">
+    <div class="container">
+        <div class="timer-txt">
+            <h1>DEADLINE COMMING SOON...</h1>
+        </div>
+        <div id="timer">
+        <ul>
+            <li>
+                <div id="days"></div>
+            </li>
+            <li>
+                <div id="hours"></div>
+            </li>
+            <li>
+                <div id="minutes"></div>
+            </li>
+            <li>
+                <div id="seconds"></div>
+            </li>
+        </ul>
+    </div>
+    </div>
+</div>
+<script src="~/js/jquery-3.1.1.min.js"></script>
+<script>
+	function makeTimer() {
+
+	//		var endTime = new Date("29 April 2018 9:56:00 GMT+01:00");	
+	    var endTime = new Date("20 November 2019 9:56:00 GMT+01:00");
+			endTime = (Date.parse(endTime) / 1000);
+
+			var now = new Date();
+			now = (Date.parse(now) / 1000);
+
+			var timeLeft = endTime - now;
+
+			var days = Math.floor(timeLeft / 86400); 
+			var hours = Math.floor((timeLeft - (days * 86400)) / 3600);
+			var minutes = Math.floor((timeLeft - (days * 86400) - (hours * 3600 )) / 60);
+			var seconds = Math.floor((timeLeft - (days * 86400) - (hours * 3600) - (minutes * 60)));
+  
+			if (hours < "10") { hours = "0" + hours; }
+			if (minutes < "10") { minutes = "0" + minutes; }
+			if (seconds < "10") { seconds = "0" + seconds; }
+
+			$("#days").html(days + "<span>Days</span>");
+			$("#hours").html(hours + "<span>Hours</span>");
+			$("#minutes").html(minutes + "<span>Minutes</span>");
+			$("#seconds").html(seconds + "<span>Seconds</span>");		
+
+	}
+
+	setInterval(function() { makeTimer(); }, 1000);
+</script>

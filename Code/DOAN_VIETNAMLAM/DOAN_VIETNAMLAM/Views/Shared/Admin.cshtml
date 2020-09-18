@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/bootstrap-4.3.1-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+    <script src="~/front-end-files/popper.min.js"></script>
+    <script src="~/front-end-files/jquery-1-10-2.js"></script>
+    <link href="~/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/css/style.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="layout-logo">
+            <a href="@Url.Action("Index", "Home")">
+                <img src="~/hinhanh/GMFJ_Only.png" /></a>
+        </div>
+        <div class="layout-nav">
+            <ul class="menucap0">
+                <li><a href="@Url.Action("Index")">Trang chủ</a></li>
+                <li><a href="@Url.Action("SanPham","Admin")">Sản phẩm</a></li>
+                <li><a>Quản lí</a>
+                    <ul class="menucap1">
+                        <li><a href="@Url.Action("TaiKhoan","Admin")">Tài Khoản</a></li>
+                        <li><a href="@Url.Action("Loai","Admin")">Loại</a></li>
+                        <li><a href="@Url.Action("SanPham","Admin")">Trang Sức</a></li>
+                        <li><a href="@Url.Action("nhaxuatban")">Hóa Đơn</a></li>
+                    </ul>
+                </li>
+
+            </ul>
+        </div>
+       
+    </div>
+    <div class="clearfix"></div>
+    <div class="container">
+        <div class="layout-search">
+            <input type="search" id="search" placeholder="Search for names..." />
+            <button class="layout-btn"><i class=" fa fa-search"></i></button>
+        </div>
+        <div class="layout-login">
+            @{DOAN_VIETNAMLAM.Models.TAIKHOAN tk = Session["ss_user"] as DOAN_VIETNAMLAM.Models.TAIKHOAN;}
+            @if (tk == null)
+            {
+                <a href="@Url.Action("DangNhap", "Login")">
+                <input type="button" value="Đăng nhập" /></a>
+            <a href="@Url.Action("Index", "Login")">
+                <input type="button" value="Đăng ký" /></a>
+            }
+            else{
+                <a href="@Url.Action("dangXuat","login")" role="button" class="btn btn-danger">Dang Xuat</a>
+            }
+        </div>
+    </div>
+    <div class="clearfix"></div>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

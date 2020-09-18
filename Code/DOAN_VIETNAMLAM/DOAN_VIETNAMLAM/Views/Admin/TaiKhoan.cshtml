@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "TaiKhoan";
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+@using DOAN_VIETNAMLAM.Models;
+@model List<TAIKHOAN>
+
+<table class="table">
+    <thead>
+         <tr>
+            <td colspan="8"><a href="@Url.Action("themTK")">Thêm mới</a></td>
+        </tr>
+        <tr>
+            <th scope="col">Mã khách hàng</th>
+            <th scope="col">User name</th>
+            <th scope="col">Password</th>
+            <th scope="col">Fullname</th>
+            <th scope="col">Email</th>
+            <th scope="col">Phân quyền</th>
+            <th scope="col">Đã xóa</th>
+    
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <th>@i.MATAIKHOAN</th>
+                 <th>@i.UNAME</th>
+                 <th>@i.PASS</th>
+                 <th>@i.FULL_NAME</th>
+                 <th>@i.EMAIL_ADDRESS</th>
+                 <th>@i.PHAN_QUYEN</th>
+                 <th>@i.DAXOA</th>
+               
+                <th ><a href="@Url.Action("xoaTaiKhoan", new {matk=@i.MATAIKHOAN })"><input class="btn-ad-xoa-kh" type="submit" value="Xóa"/></a></th>
+                <th ><a href="@Url.Action("suaTK", new {matk=@i.MATAIKHOAN })"><input class="btn-ad-sua-kh" type="submit" value="Sửa"/></a></th>
+                <th ><input class="btn-ad-sua-kh" style="background-color:#f00;" type="submit" value="BAN"/></th>
+                
+            </tr>
+        }
+       
+    </tbody>
+</table>

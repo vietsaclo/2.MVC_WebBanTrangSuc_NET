@@ -1,0 +1,100 @@
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.Tests.dll.config
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.Tests.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.Tests.pdb
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\Newtonsoft.Json.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Net.Http.Formatting.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Helpers.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Http.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Http.WebHost.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Mvc.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Razor.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Optimization.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\WebGrease.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\Antlr3.Runtime.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.pdb
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\Newtonsoft.Json.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Net.Http.Formatting.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Helpers.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Http.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Http.WebHost.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Mvc.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Razor.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\obj\Debug\DOAN_VIETNAMLAM.Tests.csprojResolveAssemblyReference.cache
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\obj\Debug\DOAN_VIETNAMLAM.Tests.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\obj\Debug\DOAN_VIETNAMLAM.Tests.pdb
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.Tests.dll.config
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.Tests.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.Tests.pdb
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\WebGrease.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.pdb
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\obj\Debug\DOAN_VIETNAMLAM.Tests.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\obj\Debug\DOAN_VIETNAMLAM.Tests.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\obj\Debug\DOAN_VIETNAMLAM.Tests.pdb
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.Tests.dll.config
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.Tests.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.Tests.pdb
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Helpers.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Http.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Mvc.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Razor.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Optimization.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\WebGrease.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.pdb
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\DOAN_VIETNAMLAM.dll.config
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Helpers.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Http.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Mvc.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.Razor.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\obj\Debug\DOAN_VIETNAMLAM.Tests.csprojAssemblyReference.cache
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\obj\Debug\DOAN_VIETNAMLAM.Tests.csproj.CoreCompileInputs.cache
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\obj\Debug\DOAN_VIETNAMLAM.Tests.csproj.CopyComplete
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\obj\Debug\DOAN_VIETNAMLAM.Tests.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM.Tests\obj\Debug\DOAN_VIETNAMLAM.Tests.pdb

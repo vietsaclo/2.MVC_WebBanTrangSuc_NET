@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "xemGioHang";
+    Layout = "~/Views/Shared/SanPham.cshtml";
+}
+
+@using DOAN_VIETNAMLAM.Models;
+@model List<Item>
+
+<table class="table" style="min-height:800px;">
+    <thead>
+        <tr>
+            <th scope="col">Mã sản phẩm</th>
+            <th scope="col">Tên sản phẩm</th>
+            <th scope="col">Hình ảnh</th>
+            <th scope="col">Số lượng</th>
+            <th scope="col">Đơn giá</th>
+            <th scope="col">Thành tiền</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <th scope="col">@i.masp</th>
+                <th>@i.tensp</th>
+                <th><img src="~/hinhanh/@i.hinhanh"/></th>
+                <th>@i.soluong</th>
+                <th>@i.gia</th>
+                <th>@String.Format("{0:0,0}", i.thanhtien)</th>
+                <th><a href="@Url.Action("xoaSp", new {masp = @i.masp})"><input class="btn-xoa" type="submit" value="Xóa"/></a></th>
+            </tr>
+            
+        }
+        <tr>
+                <th colspan="3" scope="col">Tổng</th>
+                <th scope="col" colspan="2">Tổng số lượng: @ViewBag.soluong </th>
+                <th scope="col" colspan="2">Tổng tiền: @ViewBag.tongtien VND</th>
+            </tr>
+        <tr>
+            <td colspan="7"><a href="@Url.Action("chuanBiDatHang", "GioHang")" role="button" class="btn btn-block btn-success">Đặt Hàng</a></td>
+        </tr>
+    </tbody>
+</table>
+

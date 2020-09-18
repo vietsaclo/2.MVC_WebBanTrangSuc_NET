@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Loai";
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+@using DOAN_VIETNAMLAM.Models;
+@model List<THELOAI>
+
+<table class="table">
+    <thead>
+         <tr>
+            <td  colspan="4"><a href="@Url.Action("themLoai")">Thêm mới</a></td>
+        </tr>
+        <tr>
+            <th scope="col">Mã Loại</th>
+            <th scope="col">Tên Loại<th>
+            <th scope="col">ICON</th>
+            <th scope="col">Đã xóa</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <td>@i.MALOAI</td>
+                 <td>@i.TENLOAI</td>
+                 <td>@i.ICON_THELOAI</td>
+                 <td>@i.DAXOA</td>
+                 <th ><a href="#"><input class="btn-ad-xoa-kh" type="submit" value="Xóa"/></a></th>
+                <th ><a href="#"><input class="btn-ad-sua-kh" type="submit" value="Sửa"/></a></th>
+            </tr>
+        }
+       
+    </tbody>
+</table>

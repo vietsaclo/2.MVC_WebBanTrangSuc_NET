@@ -1,0 +1,63 @@
+﻿@using DOAN_VIETNAMLAM.Models;
+
+@{
+    ViewBag.Title = "chuanBiDatHang";
+    Layout = "~/Views/Shared/SanPham.cshtml";
+}
+
+<h2>Tổng Kết thông tin đặt hàng</h2>
+@{TAIKHOAN tk = Session["ss_user"] as TAIKHOAN;
+  List<Item> gioHang = Session["gh"] as List<Item>;  
+}
+<div class="container">
+    @if (Session["gh"] == null)
+    {
+        <div class="text-danger">
+            @ViewBag.thongBao
+        </div>
+    }
+    else
+    {
+        using (Html.BeginForm("xacNhanDatHang", "gioHang"))
+        {
+<table>
+            <tr>
+                <td>Mã Khách Hàng: </td>
+                <td>@tk.MATAIKHOAN</td>
+            </tr>
+            <tr>
+                <td>Tên Khách Hàng: </td>
+                <td>@tk.FULL_NAME</td>
+            </tr>
+            @foreach (Item it in gioHang)
+            {
+<tr>
+                    <td>@it.tensp</td>
+                    <td>Số Lượng: @it.soluong</td>
+                </tr>
+            }
+            <tr>
+                <td>Ngày Đặt: </td>
+                <td>
+                    <label>@DateTime.Now.ToString("dd/MM/yyyy")</label></td>
+            </tr>
+            <tr>
+                <td>Ngày Giao: </td>
+                <td>@Html.TextBox("txtNgayGiao", "", new { @type = "date" })</td>
+            </tr>
+            <tr>
+                <td>Tổng Tiền: </td>
+                <td>@string.Format("{0:N0} VND", @gioHang.Sum(n => n.thanhtien))</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="submit" value="Xác nhận đặt hàng" /></td>
+            </tr>
+        </table>
+        }
+        <div class="text-danger">
+            @ViewBag.thongBao2
+        </div>
+    }
+</div>

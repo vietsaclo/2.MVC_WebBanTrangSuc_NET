@@ -1,0 +1,93 @@
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\DOAN_VIETNAMLAM.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\DOAN_VIETNAMLAM.pdb
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\Antlr3.Runtime.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\EntityFramework.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\Microsoft.Web.Infrastructure.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\Newtonsoft.Json.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Net.Http.Formatting.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Http.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Http.WebHost.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Mvc.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Optimization.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Providers.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Razor.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.Deployment.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.Razor.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\WebGrease.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\EntityFramework.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\Newtonsoft.Json.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Net.Http.Formatting.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Http.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Http.WebHost.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Mvc.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Razor.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.Deployment.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.Razor.xml
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\obj\Debug\DOAN_VIETNAMLAM.csprojResolveAssemblyReference.cache
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\obj\Debug\DOAN_VIETNAMLAM.dll
+G:\DU_AN_WEB_2019\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\obj\Debug\DOAN_VIETNAMLAM.pdb
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\DOAN_VIETNAMLAM.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\DOAN_VIETNAMLAM.pdb
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\Antlr3.Runtime.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\EntityFramework.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\Newtonsoft.Json.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Net.Http.Formatting.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Http.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Http.WebHost.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Mvc.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Optimization.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Providers.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Razor.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.Razor.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\WebGrease.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\EntityFramework.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\Newtonsoft.Json.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Net.Http.Formatting.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Http.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Http.WebHost.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Mvc.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Razor.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.Razor.xml
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\obj\Debug\DOAN_VIETNAMLAM.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\obj\Debug\DOAN_VIETNAMLAM.dll
+C:\Users\nguye\OneDrive - ittc.edu.vn\Desktop\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\obj\Debug\DOAN_VIETNAMLAM.pdb
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\DOAN_VIETNAMLAM.dll.config
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\DOAN_VIETNAMLAM.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\DOAN_VIETNAMLAM.pdb
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\Antlr3.Runtime.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\EntityFramework.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\Microsoft.Web.Infrastructure.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\Newtonsoft.Json.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Net.Http.Formatting.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Http.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Http.WebHost.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Mvc.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Optimization.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Providers.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Razor.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.Deployment.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.Razor.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\WebGrease.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\EntityFramework.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\Newtonsoft.Json.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Net.Http.Formatting.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Http.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Http.WebHost.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Mvc.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.Razor.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.Deployment.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\bin\System.Web.WebPages.Razor.xml
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\obj\Debug\DOAN_VIETNAMLAM.csprojAssemblyReference.cache
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\obj\Debug\DOAN_VIETNAMLAM.csproj.CoreCompileInputs.cache
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\obj\Debug\DOAN_VIETNAMLAM.csproj.CopyComplete
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\obj\Debug\DOAN_VIETNAMLAM.dll
+D:\08DHTH1\Cong Nghe Phan Mem\DOAN_VIETNAMLAM\DOAN_VIETNAMLAM\obj\Debug\DOAN_VIETNAMLAM.pdb

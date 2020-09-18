@@ -1,0 +1,112 @@
+﻿@using DOAN_VIETNAMLAM.Models;
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+        <script src="~/bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+    <link href="~/bootstrap-4.3.1-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/front-end-files/jquery-1-10-2.js"></script>
+    <script src="~/front-end-files/popper.min.js"></script>
+    <link href="~/css/style.css" rel="stylesheet" />
+    <link href="~/css/font-awesome.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <div class="layout-logo">
+            <a href="@Url.Action("Index", "Home")">
+                <img src="~/hinhanh/GMFJ_Only.png" /></a>
+        </div>
+    <div class="layout-nav">
+        <ul>
+            <li><a href="@Url.Action("Index", "Home")">Trang chủ</a></li>
+            <li><a href="@Url.Action("SanPham", "Home")">Sản phẩm</a></li>
+            <li><a href="#">Sự kiện</a></li>
+            <li><a href="#" id="btnLienHe">Liên hệ</a></li>
+        </ul>
+    </div>
+    <div class="layout-cart">
+        <div class="layout-item">
+
+            <a href="@Url.Action("xemGioHang", "GioHang")">
+                @{
+                        int sl = 0, tongTien = 0;
+                        List<Item> gioHang = Session["gh"] as List<Item>;
+                        if (gioHang != null)
+                        {
+                            sl = gioHang.Sum(n => n.soluong);
+                            tongTien = gioHang.Sum(n => n.thanhtien);   
+                        }
+                    }
+                    <p><i class="fa fa-shopping-cart"></i>Giỏ hàng(@sl)<br />[@string.Format("{0:N0} VND",tongTien)]</p>
+            </a>
+        </div>
+    </div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="container">
+        <div class="layout-search">
+            <input type="search" id="search" placeholder="Search for names..." />
+            <button class="layout-btn"><i class=" fa fa-search"></i></button>
+        </div>
+        <div class="layout-login">
+            @{TAIKHOAN tk = Session["ss_user"] as TAIKHOAN;}
+            @if (tk == null)
+            {
+                <a href="@Url.Action("DangNhap", "Login")">
+                    <input type="button" value="Đăng nhập" /></a>
+                <a href="@Url.Action("Index", "Login")">
+                    <input type="button" value="Đăng ký" /></a>
+            }
+            else
+            {
+                <a href="@Url.Action("dangXuat", "login")" role="button" class="btn btn-danger">Dang Xuat</a>
+            }
+        </div>
+    </div>
+    <div class="clearfix"></div>
+
+
+
+    <div class="clear"></div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3">
+                @Html.Action("LoaiSP","Home")
+            </div>
+            <div class="col-md-9">
+                @RenderBody()
+            </div>
+        </div>
+        
+    </div>
+
+
+    <div class="clearfix"></div>
+    <div class="container-fluid bg-footer">
+        <div class="container">
+            <div class="footer-item">
+                <i class="fa fa-map-marker"></i>
+                <h2>Address</h2>
+                <p>Thành Phố Hồ Chí Minh</p>
+            </div>
+            <div class="footer-item">
+                <i class="fa  fa-envelope"></i>
+                <h2>Email</h2>
+                <p>htnnam98@gmail.com</p>
+            </div>
+            <div class="footer-item">
+                <i class="fa fa-phone-square"></i>
+                <h2>Phone</h2>
+                <p>
+                    +84 6789 18649
+                    <br />
+                    +12 3456 789
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

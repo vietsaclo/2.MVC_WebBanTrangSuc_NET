@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="BanTrangSucClasses1">
+  <DataContextMoniker Name="/BanTrangSucClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="36460709-e57a-4fa3-ba69-dd887e385b1f" absoluteBounds="6.25, 1.375, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/BanTrangSucClasses1DataContext/CHITIETHD" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6bcec32a-1ec9-43a4-a839-6b92f983745f" absoluteBounds="6.265, 1.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8ab2aa5e-c268-4344-9d4d-fdb5b65f2bb6" absoluteBounds="3.5, 4.875, 2, 2.3478011067708326">
+      <DataClassMoniker Name="/BanTrangSucClasses1DataContext/TRANGSUC" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2390bf6f-b70a-4795-bf46-d27cea309740" absoluteBounds="3.515, 5.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="85cfedcb-0ca7-4251-98d3-0bd736d5b690" absoluteBounds="3.5, 1.125, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/BanTrangSucClasses1DataContext/HOADON" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6b59f3b6-611d-4584-a6c9-3e12fbc74d40" absoluteBounds="3.515, 1.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d519fbc4-2f4a-4123-bceb-0764eb93346e" absoluteBounds="0.75, 0.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BanTrangSucClasses1DataContext/TAIKHOAN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a96de488-5cc0-4c3b-ad37-a9e1075aca57" absoluteBounds="0.765, 1.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6e65c438-b109-4501-8969-e7cd0984b1a0" absoluteBounds="0.75, 5.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BanTrangSucClasses1DataContext/THELOAI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b41854ec-2246-4772-a6f0-948b5e27bf16" absoluteBounds="0.765, 5.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 6.04890055338542); (7.25 : 6.04890055338542); (7.25 : 2.7612939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BanTrangSucClasses1DataContext/TRANGSUC/TRANGSUC_CHITIETHD" />
+      <nodes>
+        <classShapeMoniker Id="8ab2aa5e-c268-4344-9d4d-fdb5b65f2bb6" />
+        <classShapeMoniker Id="36460709-e57a-4fa3-ba69-dd887e385b1f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.06814697265625); (6.25 : 2.06814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BanTrangSucClasses1DataContext/HOADON/HOADON_CHITIETHD" />
+      <nodes>
+        <classShapeMoniker Id="85cfedcb-0ca7-4251-98d3-0bd736d5b690" />
+        <classShapeMoniker Id="36460709-e57a-4fa3-ba69-dd887e385b1f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.01044840494792); (3.5 : 2.01044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BanTrangSucClasses1DataContext/TAIKHOAN/TAIKHOAN_HOADON" />
+      <nodes>
+        <classShapeMoniker Id="d519fbc4-2f4a-4123-bceb-0764eb93346e" />
+        <classShapeMoniker Id="85cfedcb-0ca7-4251-98d3-0bd736d5b690" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.03929768880208); (3.5 : 6.03929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BanTrangSucClasses1DataContext/THELOAI/THELOAI_TRANGSUC" />
+      <nodes>
+        <classShapeMoniker Id="6e65c438-b109-4501-8969-e7cd0984b1a0" />
+        <classShapeMoniker Id="8ab2aa5e-c268-4344-9d4d-fdb5b65f2bb6" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
